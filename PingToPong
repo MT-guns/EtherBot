@@ -1,0 +1,5 @@
+Example: ~createcommand ~ping | pong
+User enters:
+~ping
+Bot sends a message saying:
+pong
